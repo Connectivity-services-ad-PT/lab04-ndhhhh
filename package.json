@@ -12,6 +12,8 @@
   "devDependencies": {
     "@stoplight/prism-cli": "^5.10.0",
     "@stoplight/spectral-cli": "^6.13.1",
+    "@stoplight/spectral-formats": "^1.8.3",
+    "@stoplight/spectral-rulesets": "^1.22.4",
     "newman": "^6.2.1",
     "newman-reporter-htmlextra": "^1.23.1",
     "wait-on": "^8.0.1"
